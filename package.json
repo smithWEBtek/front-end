@@ -16,7 +16,7 @@
     "url": "https://github.com/smithWEBtek/front-end/issues"
   },
   "homepage": "https://github.com/smithWEBtek/front-end#readme",
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^4.2.3"
   }
 }
